@@ -7,6 +7,9 @@ Learning flutter.
   - navigate to project `flutter run -d <device ID, device ID,...>`
 - in yet another PS terminal
   - navigate to project `code lib/main.dart` to open vscode
+ 
+- to open Android Studio
+  - `C:\Program Files\Android\Android Studio1\bin> .\studio64.exe`
 
 ## resources
 - [install flutter for windows (from flutter)](https://docs.flutter.dev/get-started/install/windows/mobile?tab=later-start)
