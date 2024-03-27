@@ -4,7 +4,7 @@ Learning flutter.
 ## notes
 - to run emulator in PS `emulator -avd Flutter`
 - in another PS terminal
-  - navigate to project `flutter run -d <device ID, device ID,...>`
+  - navigate to project in projects `flutter run -d <device ID, device ID,...>`
 - in yet another PS terminal
   - navigate to project `code lib/main.dart` to open vscode
  
